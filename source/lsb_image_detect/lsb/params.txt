@@ -1,0 +1,2 @@
+MESSAGE_LENGTH=9
+SAMPLE_DIR=samples
